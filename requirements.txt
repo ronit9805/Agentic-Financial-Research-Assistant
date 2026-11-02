@@ -1,0 +1,12 @@
+langchain
+langchain-classic
+langchain-google-genai
+langchain-community
+langchain-huggingface
+langchain-chroma
+langgraph
+tiktoken
+pypdf
+chromadb
+sentence-transformers
+requests
